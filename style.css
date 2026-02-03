@@ -51,13 +51,26 @@ p , ul {
     width: 150px;
     }
 
-    .rodape {
-        text-align: center;
-        padding: 20px 10px; 
-        font-family: Arial, sans-serif; 
-        color: #333;
-        margin-top: 40px;
-         }
+   .footer-minimal {
+  width: 100%;
+  padding: 20px 0;
+  background: transparent; /* sem cor por padrão */
+}
+
+.footer-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+
+  font-size: 15px;  /* ← pode ajustar */
+  color: #333;      /* ← pode ajustar a cor */
+}
+
+.footer-logo {
+  width: 197px;     /* ← pode ajustar o tamanho */
+  height: auto;
+}
 
     .imagem {
         width: 30px;
