@@ -1,25 +1,19 @@
-# ✝️ Página “Quem é Deus”
+# Institutional Faith Page
 
-Página desenvolvida com o objetivo de expressar fé e compartilhar a mensagem de Deus.
+## 🚀 Live Demo
+[🔗 Acessar Projeto](https://SEU-USUARIO.github.io/web-institutional-faith-page/)
 
-## 🚀 Demonstração
-🔗 [Acesse a página](https://fredjoaquim.github.io/P-gina-Quem---Deus-/)
+## 📌 Sobre
+Página institucional com foco em conteúdo, organização e legibilidade.
 
-## 🧠 Funcionalidades
-- Conteúdo reflexivo e inspirador  
-- Layout limpo e de fácil leitura  
+## 🛠️ Tecnologias
+- HTML5
+- CSS3
 
-## 🛠️ Tecnologias utilizadas
-- HTML5  
-- CSS3  
+## 🎯 Funcionalidades
+- Estrutura textual clara
+- Layout limpo
+- Boa experiência de leitura
 
-## 👨‍💻 Autor
-**Fred Joaquim dos Santos**  
-📧 [fredjoaquimprogramador@gmail.com](mailto:fredjoaquimprogramador@gmail.com)  
-🐙 [GitHub](https://github.com/fredjoaquim)  
-💼 [LinkedIn](https://linkedin.com/in/fredjoaquim)
-
----
-
-## 📝 Licença
-Uso livre para fins educacionais.
+## 📷 Preview
+![Preview](./assets/preview.png)
