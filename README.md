@@ -1,7 +1,7 @@
 # Institutional Faith Page
 
 ## 🚀 Live Demo
-[🔗 Acessar Projeto](https://SEU-USUARIO.github.io/web-institutional-faith-page/)
+[🔗 Acessar Projeto](https://fredjoaquim.github.io/web-institutional-faith-page/)
 
 ## 📌 Sobre
 Página institucional com foco em conteúdo, organização e legibilidade.
