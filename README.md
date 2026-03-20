@@ -14,6 +14,3 @@ Página institucional com foco em conteúdo, organização e legibilidade.
 - Estrutura textual clara
 - Layout limpo
 - Boa experiência de leitura
-
-## 📷 Preview
-![Preview](./assets/preview.png)
